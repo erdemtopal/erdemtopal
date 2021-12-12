@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erdemtopal
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Ruby on Rails and Flutter
+- 💞️ I’m looking to collaborate on Ruby on Rails
 - 📫 How to reach me erdemtopals@gmail.com
 
 <!---
